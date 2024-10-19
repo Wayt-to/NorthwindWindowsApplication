@@ -1,0 +1,6 @@
+C:\Users\61vah\source\repos\Northwind_Windows_Application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\61vah\source\repos\Northwind_Windows_Application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\61vah\source\repos\Northwind_Windows_Application\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\61vah\source\repos\Northwind_Windows_Application\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\61vah\source\repos\Northwind_Windows_Application\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\61vah\source\repos\Northwind_Windows_Application\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
